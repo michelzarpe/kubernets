@@ -33,12 +33,13 @@ Evolua seu lado geek!
 
 
 
-O que você aprenderá
-Você irá compreender os conceitos fundamentais do Kubernetes
-Você será capaz de fazer uso de clusters Kubernetes em sistemas locais
-Você será capaz de publicar aplicações com Kubernetes
-Você será capaz de criar arquivos de configuração para Kubernetes com YAML
-Você será capaz de publicar e fazer uso do Kubernetes na Google Cloud Plaftorm
-Você será capaz de publicar e fazer uso do Kubernetes na Microsoft Azure
-Você será capaz de publicar e fazer uso do Kubernetes na Amazon Web Services
-Você será capaz de realizar configurações usando ReplicaSets, Serviços e Deployments
+O que você aprenderá:
+
+- Você irá compreender os conceitos fundamentais do Kubernetes
+- Você será capaz de fazer uso de clusters Kubernetes em sistemas locais
+- Você será capaz de publicar aplicações com Kubernetes
+- Você será capaz de criar arquivos de configuração para Kubernetes com YAML
+- Você será capaz de publicar e fazer uso do Kubernetes na Google Cloud Plaftorm
+- Você será capaz de publicar e fazer uso do Kubernetes na Microsoft Azure
+- Você será capaz de publicar e fazer uso do Kubernetes na Amazon Web Services
+- Você será capaz de realizar configurações usando ReplicaSets, Serviços e Deployments
